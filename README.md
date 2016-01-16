@@ -1,7 +1,7 @@
 # BotB20160116
 ====
 
-![Thumbnail](https://raw.githubusercontent.com/wiki/superpeachman/tracingParticles/images/0.jpg)
+![Thumbnail](https://raw.githubusercontent.com/wiki/superpeachman/BotB20160116/images/0.jpg)
 
 This is an [openFrameworks](http://www.openframeworks.cc/) sound visualiser program made for a club event “[Base of the Bass](https://www.facebook.com/BaseOfTheBass?fref=ts)” in Saigon, Vietnam.    
 
